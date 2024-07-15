@@ -1,0 +1,19 @@
+Book list store
+	name, id
+	author
+	publication
+	No. of copies
+	Status of book (issued or not)
+	Genre
+	Date of book issue (fine due or not)
+BookController
+	list of books - listbooks
+	Book details - publication, author etc. - bookdetails - if issued show else return to list of books
+	Other books of same author or publication
+Suggestions based on genre
+Role Based Access Control
+Login system
+Integration with ISBN db
+Search functionality (based on author, filters combining more than one keyword)
+Rating and reviewing books, wish list, reading list, demands (later)
+automated book ordering
